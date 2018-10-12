@@ -1,2 +1,6 @@
 # codefundo
 Microsoft Code Fun Do project
+Idea for the project:
+
+Forest fires lead to huge losses of wildlife as well as human property.It could be beneficial if we could predict these fires in advance and even prevent them.This project tries to address this issue.Sudden rise in temperature or drop in humidity levels are an indicator of impending forest fires.By placing temperature and humidity sensors in key areas of a forest and linking them to a central server through an IoT application,we could obtain critical data that would help us in determining whether the forest fire will occur or not and help us predict it's magnitude and area of spread.If we have enough data,we could even train the application to recognise these instances and eliminate false positives.
+Further, after the threat is recognised, the system could automatically alert the emergency and disaster management services as well as the people that are living in nearby areas and villages that are likely to be affected by the forest fire.Hence,this system will rely on sensor modules placed in key areas of a forest linked through an application which is also linked to public emergency alert services etc .This complete system would be very effective in predicting forest fires in advance and reducing the life and property losses through a timely alert system.
